@@ -1,0 +1,8 @@
+{
+  "name": "neo-wallet",
+  "app_id": "ca8e2d48",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
