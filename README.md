@@ -7,6 +7,9 @@ http://cityofzion.io/neon-js/overview.html
 
 TODO:
 1.创建新钱包，地址 (已完成)
+
 2.钱包状态可查看 (已完成)
+
 3.测试转账
+
 4.节点信息的同步
